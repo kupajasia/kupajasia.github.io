@@ -1,13 +1,17 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 #nigga{
     position: fixed;
     background-attachment: fixed;
-    background-image: url(https://i.redd.it/3cowloy09y961.jpg) ;
+    background-image: url(el\ rasho.png) ;
     background-repeat: no-repeat;
-    background-size:cover;
     color:white;
-    height: 100%;
-    width: 100%;
+    background-size:contain;
     top:0%;
+    height: 40%;
+    width: 100%;
 }
 
 #bitler{
@@ -33,27 +37,25 @@
     right:30%;
 }
 .image1{
-    position:static;
-    height: auto;
-    width: 350px;
-    top: 42%;
-    left: 24%;
-    margin: auto;
+    position:absolute;
+    top: 55%;
+    left: 23%;
 }
+
 .image2{
-    position: fixed;
+    position: absolute;
     height: auto;
-    width: 550px;
-    left:45%;
-    margin: auto;
-    top: 40%;
+    width: 540px;
+    top: 50% ;
+    left: 45% ;
 }
+
 .image3{
-    position:fixed;
+    position:absolute;
     height: auto;
     width: 350px;
-    top: 42%;
-    left:74%;
+    top: 50%;
+    left: 75%;
     margin: auto;
 }
 
@@ -64,7 +66,6 @@
 
 #xdiv{
     position: relative;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 150%;
     left: 16%;
 }
@@ -84,7 +85,6 @@
 .tekst1{
     position:relative;
     font-size: 140%;
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   top: -25px;
   left: -35%;
 }
@@ -93,7 +93,6 @@
     position:relative;
     text-decoration-color: black;
     font-size:120%;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     left: -30%;
 }
 
@@ -102,6 +101,5 @@
     float: left;
     text-decoration-color: black;
     font-size:120%;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     left: -30%;
 }

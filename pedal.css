@@ -18,7 +18,7 @@ body{
     position:absolute;
     background-color:aliceblue;
     border: 2px;
-    margin: auto;
+    margin: 1%;
     padding: 20%;
     top: 35%;
     width: 100%;
@@ -44,7 +44,7 @@ body{
 
 .image2{
     position: absolute;
-    height: auto;
+    height: 25%;
     width: 20%;
     top: 50% ;
     left: 45% ;
@@ -52,16 +52,16 @@ body{
 
 .image3{
     position:absolute;
-    height: auto;
+    height: 22%;
     width: 13%;
     top: 51%;
     left: 75%;
-    margin: auto;
+    margin: 0%;
 }
 
 #zdiv{
     position:relative;
-    left:1px;
+    left:1%;
 }
 
 #xdiv{

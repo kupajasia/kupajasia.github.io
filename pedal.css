@@ -45,7 +45,7 @@ body{
 .image2{
     position: absolute;
     height: auto;
-    width: 540px;
+    width: 20%;
     top: 50% ;
     left: 45% ;
 }
@@ -53,8 +53,8 @@ body{
 .image3{
     position:absolute;
     height: auto;
-    width: 350px;
-    top: 50%;
+    width: 13%;
+    top: 51%;
     left: 75%;
     margin: auto;
 }
@@ -85,7 +85,7 @@ body{
 .tekst1{
     position:relative;
     font-size: 140%;
-  top: -25px;
+  top: -1%;
   left: -35%;
 }
 
